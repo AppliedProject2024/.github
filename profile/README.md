@@ -25,6 +25,7 @@ StudyBuddy-AI aims to support students studying in multiple languages. Reading d
 - French
 - Portuguese
 - German  
+
 The UI will adapt to your selected language from thedrop down in the sidebar. The AI-generated ouputs will also appear in your selected language while still using the content from your uploaded documents.
 
 ## 💬Feedback
