@@ -1,30 +1,31 @@
 # 🤖StudyBuddy-AI
 
-Welcome to the home of StudyBuddy-AI a tool dedicated to helping students with what really matters. As a student many of us experience a weekly bombardment of documents for countless modules, with no way to manage these documents affectively it can often make life more challenging. This is were StudyBuddy-AI excells, the application is designed to take in your pdf documents, process them and store them for future use. These documents server as a knowledge base for the AI tools used in this application. With every query made your documents are searched and relevant information is retrieved this information is then fed to the AI which can format and output the information quickly and affectively, saving students the hassle of scrolling through countless documents looking for the information they require.
+Welcome to the home of StudyBuddy-AI, a tool dedicated to helping students focus on really matters. As students many of us experience a weekly bombardment of documents from countless modules. Without a effective way to manage these documents affectively it can often make life more challenging and studying overwhelming. This is were StudyBuddy-AI excels. This application is designed to take in your PDF documents, process them, and store them for future use. These documents serves as a knowledge base for the AI tools integrated into this application. With each query, your documents are searched, relevant information is retrieved, and this information is then passed to the AI, which can format and output the information quickly and affectively, saving students the hassle of scrolling through countless files looking for the information they require.
 
-## AI tools:
-StudyBuddy-AI come with 3 main tools to help students retrieve and learn the information stored in theyre documents:
-### Q&A:
-The Q&A feature is as simple as it sounds, just input a query hit send and watch as the AI outputs information directly correlated to your documents. Need to know your project due dates? simply just ask here and watch the information appear infront of you in no time!
+## 🧠AI tools:
+StudyBuddy-AI comes with 3 main tools to help students retrieve and learn from the information stored in they're documents:
 
-### Summary:
-The Summary feature allows users to create a summary of any query retrieving the information from your documents. Sick and tierd of specfying the lenght and complexity of your summary to AI? simply just select the word count and complexity level from the provided drop downs and hit send.
+### 🤖Q&A:
+The Q&A feature is as simple as it sounds, just input a question, hit send, and watch as the AI responds with information directly e
+related to your documents. Need to know when your projects are due? Just ask, and the answer will appear infront of you in no time!
 
-### MCQ:
-MCQs are a important part of learning for many students, and StudyBuddy-AI aims to provide the best MCQ experience possible just enter you query into the textbox, and select the number of questions and complexity you require and watch as a interactive MCQ is generated based on you documents information. See your scores at the end of the quiz to see where you need to improve or marvel at you intellegence its up to you!
+### 📚Summary:
+The Summary feature allows users to create a summary based on a query and your stored documents. Sick and tierd of specfying the lenght and complexity of your summary to AI? simply just select the word count and complexity level from the provided drop downs and hit send.
 
-## Document upload, management
-Documents can be uploaded on the upload page simply select you document wait for it to process and your done you can now use this document in your AI queries. There is also a documents page with displays all documents you have uploaded, Each document also has a delete button, allowing you to remove the document from storage when it is no longer required ensuring it will not be used in future query searches.
+### ✔️MCQ:
+Multiple-choice questions are a grate way to learn for many students, and StudyBuddy-AI aims to provide the best MCQ experience possible. Simply enter your query, and select the number of questions and complexity of the questions, and watch as a interactive MCQ is generated based on your documents. See your scores at the end of the quiz to see whether you need to improve, or marvel at your own intellegence, its up to you!
 
-## Language support
-StudyBuddy-AI aims to support students studying abroad, reading documents that are not in your natieve language can make it challenging to study, StudyBuddy-AI aims to fix this issue with multple languages supported on the application including:
+## 📄Document upload, management
+Documents can be uploaded easily on the upload page. Simply select you document, wait for it to process, and your done! You can now use this document in your AI queries. You can view all uploaded on the Documents page. Each document has a delete button so you can remove the document from storage when it is no longer needed, ensuring it wont be included in future query queries.
+
+## 🌍Language support
+StudyBuddy-AI aims to support students studying in multiple languages. Reading documents that aren't in your natieve language can be a challenge, StudyBuddy-AI aims to help overcome these issues with support for:
 - English
 - Spanish
 - French
 - Portuguese
 - German
-The UI will display any language selected from the drop down in the sidebar. The AI ouputs will also be in this language while still retrieving the information from any document you provide.
+The UI will adapt to your selected language from thedrop down in the sidebar. The AI-generated ouputs will also appear in your selected language while still using the content from your uploaded documents.
 
-
-## Feedback
-StudyBuddy-AI also supplies a feedback form were user can give feedback on the quality of translations, Q&As, Summaries and MCQs. Any feedback provided is greatly appreiated and helps me improve this application in the future!
+## 💬Feedback
+StudyBuddy-AI also includes a feedback form where user can share feedback and thoughts on the quality of translations, Q&As, summaries and MCQs. Any feedback is greatly appreiated and helps improve this application in the future!
