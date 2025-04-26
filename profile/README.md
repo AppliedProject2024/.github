@@ -41,4 +41,4 @@ The UI will adapt to your selected language from thedrop down in the sidebar. Th
 StudyBuddy-AI also includes a feedback form where user can share feedback and thoughts on the quality of translations, Q&As, summaries and MCQs. Any feedback is greatly appreiated and helps improve this application in the future!
 
 ## 📝Further Information 
-For further information on the inner workings of StudyBuddy-AI please feel free to explore the Frontend and Backend repositories located in the repository section of this orgainisation. The README in each of these repoistories will go into slightly more detail on how the system works and how to clone each to run the application locally.
+For further information on the inner workings of StudyBuddy-AI please feel free to explore the Frontend and Backend repositories located directly below this document or in the repository section of this orgainisation. The README in each of these repoistories will go into slightly more detail on how the system works and how to clone each to run the application locally.
