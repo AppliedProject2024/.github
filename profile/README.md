@@ -1,6 +1,15 @@
 # 🤖StudyBuddy-AI
 
-Welcome to the home of StudyBuddy-AI, a tool dedicated to helping students focus on really matters. As students many of us experience a weekly bombardment of documents from countless modules. Without an effective way to manage these documents affectively it can often make life more challenging and studying overwhelming. This is were StudyBuddy-AI excels. This application is designed to take in your PDF documents, process them, and store them for future use. These documents serves as a knowledge base for the AI tools integrated into this application. With each query, your documents are searched, relevant information is retrieved, and this information is then passed to the AI, which can format and output the information quickly and affectively, saving students the hassle of scrolling through countless files looking for the information they require.
+Welcome to the home of StudyBuddy-AI, a tool dedicated to helping students focus on what
+really matters. As students many of us experience a weekly bombardment of documents
+from countless modules. Without an effective way to manage these documents it can often
+make life more challenging and studying overwhelming. This is were StudyBuddy-AI excels.
+This application is designed to take in your PDF documents, process them, and store them
+for future use. These documents serve as a knowledge base for the AI tools integrated into
+this application. With each query, your documents are searched, relevant information is
+retrieved, and this information is then passed to the AI, which can format and output the
+information quickly and effectively, saving students the hassle of scrolling through countless
+files looking for the information they require.
 
 ## 🧠AI tools:
 StudyBuddy-AI comes with 3 main tools to help students retrieve and learn from the information stored in they're documents:
