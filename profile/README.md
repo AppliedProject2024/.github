@@ -11,6 +11,9 @@ retrieved, and this information is then passed to the AI, which can format and o
 information quickly and effectively, saving students the hassle of scrolling through countless
 files looking for the information they require.
 
+## 🌍Visit the deployed application
+There is no requirment to go through the long process of cloning and self hosting this project, why go to all that trouble when you can simply try the deployed application here from anywhere with the simple click of a button: https://studybuddyai-frontend.onrender.com
+
 ## 🧠AI tools:
 StudyBuddy-AI comes with 3 main tools to help students retrieve and learn from the information stored in they're documents:
 
