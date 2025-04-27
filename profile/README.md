@@ -14,6 +14,9 @@ files looking for the information they require.
 ## 🌍Visit the deployed application
 There is no requirment to go through the long process of cloning and self hosting this project, why go to all that trouble when you can simply try the deployed application here from anywhere with the simple click of a button: https://studybuddyai-frontend.onrender.com
 
+## Demonsration of StudyBuddyAI
+A video has been uploaded to youtube demonstrating StudyBuddy-AI in order to allow users to understand how to operate the application this video can be found [here](https://www.youtube.com/watch?v=vXqaH4HBn64)
+
 ## 🧠AI tools:
 StudyBuddy-AI comes with 3 main tools to help students retrieve and learn from the information stored in they're documents:
 
